@@ -33,9 +33,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<!-- [![](https://github-readme-stats.vercel.app/api?username=hanyucd&show_icons=true)](https://github.com/hanyucd)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=hanyucd&theme=tokyonight&layout=compact)](https://github.com/hanyucd) -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=WangQingye&show_icons=true" />
 <br />
